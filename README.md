@@ -17,11 +17,7 @@ git clone https://github.com/Shashikant-15/Oops_Assignment1.git
  
 cd ../Oops_Assignment1/src/main/scala/samplepackage
 
-### Further Run the following commands 
-```bash
-scalac MainObject.scala
-scala MainObject
-```
+
 ## In oops Assignment-1 we have to do :``
 * Make a trait Queue which performs two functions of enqueue and dequque.
 * Two classes: DoubleQueue and SquareQueue mix in this trait.
