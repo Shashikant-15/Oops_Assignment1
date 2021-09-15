@@ -1,7 +1,7 @@
 ##  Oops_Assignment1
 ## README
 
-### ForInstalling Scala use code
+### For  Installing Scala use code
 ```bash
 sudo apt-get install scala
 ```
@@ -18,7 +18,7 @@ git clone https://github.com/Shashikant-15/Oops_Assignment1.git
 cd ../Oops_Assignment1/src/main/scala/samplepackage
 
 
-## In oops Assignment-1 we have to do :``
+## In oops Assignment-1 we have to do :
 * Make a trait Queue which performs two functions of enqueue and dequque.
 * Two classes: DoubleQueue and SquareQueue mix in this trait.
 * You may use List for the implementation and keep both the classes in the same file with proper packaging.
